@@ -1,0 +1,41 @@
+[33mcommit 638fa0d33fefeac6878220b5374d05eebc286ca3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 07:05:10 2026 +0000
+
+    Removed the  in 2 + 1
+
+[33mcommit 9fb02e8107ee1e214efd81c3cf8e8e9b32912b2f[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 07:03:52 2026 +0000
+
+    Added in py 2 + 1
+
+[33mcommit 92141974962071ddeb54d5913a45312bc6a43f0a[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 07:02:41 2026 +0000
+
+    deleted touch.py
+
+[33mcommit c1450ac158cbe3c79a04c88c47f8e67de9bf52d1[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 07:00:30 2026 +0000
+
+    Added up.py file
+
+[33mcommit a445cb242020af8897d69f695eb7c980198ef1b2[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 06:56:17 2026 +0000
+
+    Added sample to commit
+
+[33mcommit 3a3fe5b0f7256bad9952a1df54102c6023fa1fa8[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 14:49:58 2026 +0800
+
+    Update README.md
+
+[33mcommit 78d46436d0d8d5fd283ccac1d6c52263625c043a[m
+Author: Ethan Miguel P. Patio <ethanmiguel627@gmail.com>
+Date:   Sat Aug 15 14:49:35 2026 +0800
+
+    Initial commit
